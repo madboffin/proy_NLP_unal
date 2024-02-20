@@ -1,3 +1,6 @@
+matplotlib
 pandas
+pyarrow
+seaborn
 spacy
 unidecode
