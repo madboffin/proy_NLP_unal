@@ -1,6 +1,9 @@
+gdown
 matplotlib
 pandas
+plotly
 pyarrow
 seaborn
 spacy
 unidecode
+wordcloud
