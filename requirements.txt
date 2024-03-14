@@ -3,6 +3,7 @@ matplotlib
 pandas
 plotly
 pyarrow
+scikit-learn
 seaborn
 spacy
 unidecode
